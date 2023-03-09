@@ -1,0 +1,103 @@
+/*css for the home.html/head*/
+.home{
+    font-size: 80px;
+    color: #fff;
+}
+.home .first,
+.home .second {
+  float: left;
+}
+.home .first{
+    background-color: rgb(243, 96, 96);
+    display: inline-block;
+    text-align: end;
+    
+}
+.home .second{
+    background-color:#2d7ef7;
+}
+.home-content{
+    background-image: url("prog.pic.jpg");
+    background-size: cover;
+    height: 550px;
+    color: #fff;
+}
+.home-content{
+    background-color: rgb(43, 12, 12);
+}
+
+
+
+
+/*css for about-us/content*/
+.about{
+    background-color: rgb(237, 237, 245);
+    color: #fff ;
+    background-image: url("prog.pic.jpg");
+    background-size: cover;
+    height: 550px;
+    padding: 5px;
+    padding-right: 8px;
+    font-size: 18px;
+}
+/*css for sign-up/content*/
+.parent{
+    background-image: url("prog.pic.jpg");
+    background-size: cover;
+    height: 550px;
+    color: #fff;
+   
+}
+/*css for log in/content*/
+.log-in{
+    background-image: url("prog.pic.jpg");
+    background-size: cover;
+    height: 580px auto;
+    color: #fff;
+}
+/*css for the links/downwards*/
+.body{
+
+    background-color: #2e2f70;
+    height: 550px;
+    color: #fff;
+}
+.h2{
+    background-color: #f73949;
+    text-align: center;
+    height: 70px auto;
+    font-size: 50px;
+    color: #fff;
+}
+/*css for programming languages*/
+.body2{
+    color: #fff;
+    background-color: #2e2f70;
+}
+.h3{
+    background-color: #f73949;
+    text-align: center;
+    height: 70px auto;
+    font-size: 38px; 
+}
+/*css for software methodologies*/
+.body3{
+    background-color: #2e2f70;
+    color: #fff;
+}
+.h4{
+    background-color: #f73949;
+    text-align: center;
+    height: 70px auto;
+    font-size: 50px;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: red;
+  }
+  .navbar .nav-link:hover {
+    color: red;
+  }
+.known{
+    background-color: #fdf5f6;
+}    
